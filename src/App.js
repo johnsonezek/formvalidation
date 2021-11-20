@@ -3,7 +3,6 @@ import { useFormik } from "formik";
 import * as yup from "yup";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-
 // const validate = values => {
 //   var errors = {};
 //   if(!values.name) {
